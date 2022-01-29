@@ -1,17 +1,46 @@
+# Notepad Clone Using Java
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Build your own Notepad using Java Programming
+# Project Specifications
 
-## Folder Structure
+- A Notepad Clone in which the user inputs text by writing with styles on the screen.
+- Contains features such as File, Edite, Help
+- We can Save, Print, Copy, Paste any text which we want.
+- Contains features of Saving, Opening, Editing files within your System.
 
-The workspace contains two folders by default, where:
+## What you'll gain?
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Abstract Window Toolkit in Java
+- Making a Java GUI Application
+- Core Java programming 
+- Java Notepad Clone
+- Classes and Objects in Java with example
+- Use of Various Java Swing Components like Jframe, Jtext, JButton etc.
+	
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Dependency Management
 
